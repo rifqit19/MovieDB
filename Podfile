@@ -8,7 +8,6 @@ target 'MovieDB' do
   # Pods for MovieDB
   pod 'Alamofire'
 
-
   target 'MovieDBTests' do
     inherit! :search_paths
     # Pods for testing
